@@ -1,5 +1,5 @@
 import React from 'react-native';
-import Style from '../style.js';
+import Style from '/style.js';
 const {
 	Component,
 	Text,
