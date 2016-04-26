@@ -17,5 +17,5 @@ INSTALL
   2. Install XCode from the Apple App Store and open the emulator found
         Right click on the application -> Show Package Contents -> Contents -> Developer -> Applications -> Simulator
   3. Navigate to to your project directory in terminal and run 'npm install'
-  4. In Exponent, click 'Open Project' and select your project directory. The project will now build.
+  4. In Exponent, click 'Open Project' and select your project directory. The project will now build. Note that a folder called '.exponent' will be created.
   5. In Exponent, click 'Open Project in Exponent on iOS Simulator'. The project will now open in the iOS Simulator.
