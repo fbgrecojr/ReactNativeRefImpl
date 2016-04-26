@@ -9,7 +9,6 @@ This project is currently not integrated with the
 
 Instead, an XDE called Exponent.js is being used to simply
 the initial development.
-**************************************************************************************************************************
 
 **************************************************************************************************************************
 INSTALL
@@ -20,4 +19,3 @@ INSTALL
   3. Navigate to to your project directory in terminal and run 'npm install'
   4. In Exponent, click 'Open Project' and select your project directory. The project will now build.
   5. In Exponent, click 'Open Project in Exponent on iOS Simulator'. The project will now open in the iOS Simulator.
-**************************************************************************************************************************
